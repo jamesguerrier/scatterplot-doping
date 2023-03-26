@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+svg{
+    background-color: rgb(186, 183, 209);
+}
+#title{
+    font-size: 30px;
+    
+}
+
+
+
+#tooltip{
+    background-color: rgb(42, 179, 179);
+}
+#legend{
+    margin-bottom: 30px;
+}
